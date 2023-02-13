@@ -22,14 +22,14 @@ class Books:
                                
 while True:
   print("""1. Library Books
-        \n2. Borrow a Book
-        \n3. Return a Book
+        \n2. Borrow a Book dziwko
+        \n3. Return a Book elomala
         \n4. Exit""")
 
   choice = input("\nPlease choose one of the following options: ")
       
   if choice == "1":
-    print("\n", book1, "\n")
+    print("\n", book , "\n")
 
     
   elif choice == "2":
