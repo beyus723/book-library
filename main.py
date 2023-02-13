@@ -1,6 +1,8 @@
 #Task 1
+#Initial Menu system with the following options
 
-#Initial Menu system with the following options:
+#Task 1a
+#Make sure your menu is looped until the user selects to exit the program. Comment your code as you go. And you must use appropriate naming conventions for your variables.
 
 print("Welcome in our Library.\n")
 
@@ -29,7 +31,7 @@ while True:
   choice = input("\nPlease choose one of the following options: ")
       
   if choice == "1":
-    print("\n", book , "\n")
+    print("\n", "\n")
 
     
   elif choice == "2":
@@ -45,9 +47,6 @@ while True:
 
 
 
-#Task 1a
-
-#Make sure your menu is looped until the user selects to exit the program. Comment your code as you go. And you must use appropriate naming conventions for your variables.
 
 
 """ 
