@@ -14,7 +14,7 @@ class Books:
   
   book3 = {"Borys w natarciu" : ["Borys Owsik"]}
   
-  book4 = {"Borys Rudy Zyd" : ["Borys Owsik"]}
+  book4 = {"Borys Rudy" : ["Borys Owsik"]}
 
   def book(title, author):
     title.book1 = book1[0]
